@@ -2,14 +2,15 @@
 title: "Supercharge GitHub Copilot with Prompt Boost in VS Code"
 date: 2025-05-06
 categories: 
-  - GitHub Copilot
-  - VS Code
+  - github-copilot
+  - vs-code
 tags:
   - Prompt Boost
   - AI Tools
   - Productivity
 read_time: true
 author_profile: true
+permalink: /prompt-boost-vscode-copilot
 ---
 
 If you're using GitHub Copilot in Visual Studio Code, you already know how transformative AI can be for your development workflow. But what if you could make Copilot even smarter—without doing any heavy lifting?
